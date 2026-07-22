@@ -23,15 +23,3 @@ To start the chatbot, run:
 ```bash
 npm start
 ```
-
-## Contributing
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) before getting started.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries, please reach out to us at [support@example.com](mailto:support@example.com).
-
-## Date Created
-This README includes details pertinent to the project as of `2026-03-30` (UTC).
