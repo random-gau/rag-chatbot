@@ -52,7 +52,7 @@ Generated Response
 | Embeddings | Hugging Face Embeddings |
 | Vector Store | FAISS |
 | LLM | OpenAI / Hugging Face |
-| Interface | Streamlit *(if used)* |
+| Interface | Streamlit |
 
 ---
 
@@ -138,12 +138,6 @@ python app.py
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
